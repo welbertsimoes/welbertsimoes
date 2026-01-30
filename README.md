@@ -37,7 +37,7 @@
   
   <img alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin: 0 10px;" />
   
-  <img alt="Zabbix" height="50" width="50" src="https://img.icons8.com/color/144/zabbix.png" style="margin: 0 10px;" />
+  <img alt="Zabbix" height="50" width="50" src="https://avatars.githubusercontent.com/u/15324500?s=200&v=4" style="margin: 0 10px;" />
   
   <img alt="n8n" height="50" width="50" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" style="margin: 0 10px;" />
 </div>
