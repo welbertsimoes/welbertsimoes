@@ -1,15 +1,24 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> 
-  <h1 style="display:inline;">Olá! Eu sou Welbert Simões</h1>
+  <img src="https://i.pinimg.com/originals/e0/96/3e/e0963eae2595914a93c72b15d2a21e63.gif" width="100%" height="auto" style="border-radius: 10px; opacity: 0.8;">
 </div>
 
 <div align="center">
-  <h3>💻 Analista de Monitoramento | 🚀 Futuro CCNA</h3>
-  <br>
-  <p>Apaixonado por tecnologia e redes. Atualmente focado em <b>Automação de Processos e Rotinas dentro do Monitoramento de Infraestruturas Críticas</b> e <b>em tirar o CCNA</b>.</p>
+  <h1 style="font-size: 30px;">Olá, eu sou Welbert Simões 👨‍💻</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=50FA7B&center=true&vCenter=true&width=500&lines=Network+Engineer+%7C+Cybersecurity;Automating+Networks+with+Python+%26+Ansible;Focusing+on+CCNA%2C+CCNP+%26+CCIE;Dreaming+Big%2C+Working+Hard." alt="Typing SVG" />
+  </a>
 </div>
 
 <br>
+
+<div align="center">
+  <p style="font-size: 16px;">
+    🚀 Analista de Monitoramento focado em infraestrutura de missão crítica.<br>
+    Atualmente migrando para <b>Engenharia de Redes & Automação (NetDevOps)</b>.<br>
+    Meu objetivo é dominar o tráfego global de dados e atuar em grandes projetos internacionais.
+  </p>
+</div>
 
 <div align="center">
   <a href="mailto:welbertsimoes@outlook.com">
@@ -18,22 +27,31 @@
   <a href="https://linkedin.com/in/welbert-sim%C3%B5es-a328671b8">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-  <br><br>
-
-  <h3>🛠️ Tecnologias</h3>
-  <img align="center" alt="Cisco" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" />
-  <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Zabbix" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Zabbix_logo_square.svg" />
-  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 
 <br>
 
+<h3 align="center">📡 Infraestrutura & Redes</h3>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=welbertsimoes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welbertsimoes&layout=compact&theme=dracula&hide_border=true"/>
+  <img align="center" alt="Cisco" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" />
+  <img align="center" alt="Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Fortinet" height="50" width="60" src="https://img.icons8.com/color/144/fortinet.png" />
+  <img align="center" alt="Zabbix" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Zabbix_logo_square.svg" />
+</div>
+
+<h3 align="center">⚙️ Automação & DevOps</h3>
+<div align="center">
+  <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Ansible" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
+  <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
+
+<br><br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=welbertsimoes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welbertsimoes&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
