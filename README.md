@@ -4,9 +4,9 @@
 </div>
 
 <div align="center">
-  <h3>🎵 Músico | 💻 Analista de Monitoramento | 🚀 Futuro CCIE</h3>
+  <h3>💻 Analista de Monitoramento | 🚀 Futuro CCNA</h3>
   <br>
-  <p>Apaixonado por tecnologia e redes. Atualmente focado em <b>Automação de Redes</b> e <b>Cibersegurança</b>.</p>
+  <p>Apaixonado por tecnologia e redes. Atualmente focado em <b>Automação de Processos e Rotinas dentro do Monitoramento de Infraestruturas Críticas</b> e <b>em tirar o CCNA</b>.</p>
 </div>
 
 <br>
