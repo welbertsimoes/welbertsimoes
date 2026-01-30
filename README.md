@@ -31,15 +31,15 @@
 <div align="center">
   <h3 style="color: #50FA7B;">🛠️ Tecnologias</h3>
   
-  <img alt="Cisco" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" style="margin: 0 10px;" />
+  <img alt="Cisco" height="50" src="https://cdn.simpleicons.org/cisco/049FD9" style="margin: 0 15px;" />
   
-  <img alt="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="margin: 0 10px;" />
+  <img alt="Linux" height="50" src="https://cdn.simpleicons.org/linux/FCC624" style="margin: 0 15px;" />
   
-  <img alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin: 0 10px;" />
+  <img alt="Python" height="50" src="https://cdn.simpleicons.org/python/3776AB" style="margin: 0 15px;" />
   
-  <img alt="Zabbix" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Zabbix_logo_square.svg" style="margin: 0 10px;" />
+  <img alt="Zabbix" height="50" src="https://cdn.simpleicons.org/zabbix/D60000" style="margin: 0 15px;" />
   
-  <img alt="n8n" height="50" width="50" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" style="margin: 0 10px;" />
+  <img alt="n8n" height="50" src="https://cdn.simpleicons.org/n8n/EA4B71" style="margin: 0 15px;" />
 </div>
 
 <br><br>
