@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=50FA7B&center=true&vCenter=true&width=600&lines=Analista+de+Monitoramento;Foco+em+Infraestrutura+Cr%C3%ADtica;Automa%C3%A7%C3%A3o+com+Python+%26+n8n" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=50FA7B&center=true&vCenter=true&width=600&lines=Analista+de+Monitoramento+%7C+Futuro+CCNA;Focado+em+Infraestrutura+Cr%C3%ADtica;Automa%C3%A7%C3%A3o+com+Python+%26+n8n" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div align="center">
   <p style="color: #d0d0d0; max-width: 600px;">
-    Atualmente focado em <b>Automação de Rotinas</b> (NOC/SRE) e em tirar o <b>CCNA</b>.
+    Apaixonado por tecnologia e redes. Atualmente focado em <b>Automação de Processos e Rotinas</b> dentro do Monitoramento de Infraestruturas Críticas e em tirar o <b>CCNA</b>.
   </p>
 
   <br>
@@ -31,15 +31,15 @@
 <div align="center">
   <h3 style="color: #50FA7B;">🛠️ Tecnologias</h3>
   
+  <img alt="Cisco" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" style="margin: 0 10px;" />
+  
   <img alt="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="margin: 0 10px;" />
   
   <img alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin: 0 10px;" />
-
-  <img alt="Cisco" height="45" width="45" src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" style="margin: 0 10px;" />
   
-  <img alt="Zabbix" height="45" width="45" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" style="margin: 0 10px;" />
+  <img alt="Zabbix" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Zabbix_logo_square.svg" style="margin: 0 10px;" />
   
-  <img alt="n8n" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/N8n-logo.png" style="margin: 0 10px;" />
+  <img alt="n8n" height="50" width="50" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" style="margin: 0 10px;" />
 </div>
 
 <br><br>
