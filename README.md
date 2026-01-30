@@ -39,7 +39,7 @@
   
   <img alt="Zabbix" height="50" width="50" src="https://github.com/zabbix.png" style="margin: 0 10px;" />
   
-  <img alt="n8n" height="50" width="50" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" style="margin: 0 10px;" />
+  <img alt="n8n" height="55" width="55" src="https://github.com/n8n-io.png" style="margin: 0 10px;" />
 </div>
 
 <br><br>
